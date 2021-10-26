@@ -1,7 +1,7 @@
 # Henrique Santos da Silva
 
-🇧🇷 Entusiasta de tecnologia, atualmente estudando desenvolvimento mobile com Kotlin ou Flutter. <br/></br>
-🇺🇸 Tech enthusiast, currently studying mobile development with Kotlin or Flutter.
+🇧🇷 Entusiasta de tecnologia, atualmente estudando desenvolvimento mobile com Kotlin e Flutter. <br/></br>
+🇺🇸 Tech enthusiast, currently studying mobile development with Kotlin and Flutter.
 <br/><br/>
 
 ## 🛠️ &nbsp; Tech Stack
